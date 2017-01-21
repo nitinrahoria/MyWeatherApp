@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter">Filter based on range</string>
+    <string name="select_range_of_near_by_cities">Select range of near by cities</string>
+    <string name="location_error_msg">Application can\'t be launched without approving location access</string>
+    <string name="json_result_error">Cannot process JSON results</string>
+    <string name="weather_api_data_null">Sorry Weather APIs are not responding</string>
+    <string name="loading">Loading...</string>
+    <string name="gps_enabling_msg">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="gps_settings">GPS settings</string>
+    <string name="internet_connection_request">Please connect internet connection first</string>
+    <string name="close">Close</string>
+    <string name="caution">CAUTION</string>
+    <string name="humidity">"Humidity: "</string>
+    <string name="pressure">"Pressure: "</string>
+    <string name="location_loading_msg">HangOn getting your location....</string>
+</resources>
